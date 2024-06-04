@@ -17,7 +17,9 @@
 ![](https://raw.githubusercontent.com/yukina-t156/yukina-t156/output/github-contribution-grid-snake.svg)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yukina-t156&show_icons=true&theme=nord) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukina-t156&layout=donut&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yukina-t156&show_icons=true&theme=nord)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukina-t156&layout=donut&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-trophy.vercel.app/?username=yukina-t156&column=5&theme=nord)
 
