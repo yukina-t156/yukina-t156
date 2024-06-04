@@ -15,7 +15,9 @@
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yukina-t156&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukina-t156&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yukina-t156&show_icons=true&theme=nord) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukina-t156&layout=donut&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-trophy.vercel.app/?username=yukina-t156&column=-1&theme=nord)
 
 *Including individual stats
 <!--
