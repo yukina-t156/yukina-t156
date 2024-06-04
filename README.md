@@ -1,5 +1,23 @@
 ## Hi there 👋
+<p align="left">
+  <a href="https://github.com/yukina-t156">
+    <img height="20" src="https://komarev.com/ghpvc/?username=yukina-t156" />
+  </a>
+  <a href="https://github.com/yukina-t156">
+    <img height="20" src="https://img.shields.io/github/followers/yukina-t156?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/yt156">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yt156/posts.svg" />
+  </a>
+  <a href="http://qiita.com/yt156">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yt156/contributions.svg" />
+  </a>
+</p>
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yukina-t156&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukina-t156&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+*Including individual stats
 <!--
 **yukina-t156/yukina-t156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
