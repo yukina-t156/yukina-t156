@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Yukina Tatsuta
 
-- 🌏 I live near TOKYO.  
+- 🏫 Information Sciences Department, Faculty of Science, Ochanomizu University (B4)
+- 🌏 I live near TOKYO.
 - 🧪 My reserch topic is Quantum Information.  
 - 💻 I'm working as a Rails backend engineer (internship).  
 - 🗣 I can speak Japanese and a little English.  
