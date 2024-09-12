@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Yukina
+## Hi there 👋 I'm Yukina Tatsuta
 
 - 🌏 I live near TOKYO.  
 - 🧪 My reserch topic is Quantum Information.  
-- 💻 I'm working as a Rails backend engineer.  
+- 💻 I'm working as a Rails backend engineer (internship).  
 - 🗣 I can speak Japanese and a little English.  
-- 🍹 I love coffee, tea, ice-cream.  
+- 🍹 I love coffee and tea.
 
 <p align="left">
   <a href="https://github.com/yukina-t156">
