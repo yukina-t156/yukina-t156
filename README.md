@@ -4,7 +4,7 @@ Also look at this [homepage](https://yukina-t156.github.io/page/)
 *under construction
 
 
-- 🏫 Information Sciences Department, Faculty of Science, Ochanomizu University (B4)
+- 🏫 Information Sciences Department, Faculty of Science, Ochanomizu University (M1)
 - 🌏 I live near TOKYO.
 - 🧪 My reserch topic is Quantum Information.  
 - 💻 I'm working as a Rails backend engineer (internship).  
