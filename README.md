@@ -9,7 +9,6 @@ Also look at this [homepage](https://yukina-t156.github.io/page/)
 - 🧪 My reserch topic is Quantum Information.  
 - 💻 I'm working as a Rails backend engineer (internship).  
 - 🗣 I can speak Japanese and a little English.  
-- 🍹 I love coffee and tea.
 
 <p align="left">
   <a href="https://github.com/yukina-t156">
@@ -17,12 +16,6 @@ Also look at this [homepage](https://yukina-t156.github.io/page/)
   </a>
   <a href="https://github.com/yukina-t156">
     <img height="20" src="https://img.shields.io/github/followers/yukina-t156?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/yt156">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yt156/posts.svg" />
-  </a>
-  <a href="http://qiita.com/yt156">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yt156/contributions.svg" />
   </a>
 </p>
 
