@@ -5,9 +5,8 @@ Also look at this [homepage](https://yukina-t156.github.io/page/)
 
 
 - 🏫 Information Sciences Department, Faculty of Science, Ochanomizu University (M1)
-- 🌏 I live near TOKYO.
-- 🧪 My reserch topic is Quantum Information.  
-- 💻 I'm working as a Rails backend engineer (internship).  
+- 🌏 I live in TOKYO.
+- 🧪 My reserch topic is Quantum Information, Combinatorial Optimization, etc... 
 - 🗣 I can speak Japanese and a little English.  
 
 <p align="left">
